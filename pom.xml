@@ -12,7 +12,7 @@
 		<module>gaoxi-analysis</module>
 		<module>gaoxi-order</module>
 		<module>gaoxi-product</module>
-		<module>gaoxi-user</module>
+	#	<module>gaoxi-user</module>
 		<module>gaoxi-redis</module>
 		<module>gaoxi-controller</module>
 		<module>gaoxi-common-service-facade</module>
