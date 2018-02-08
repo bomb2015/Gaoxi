@@ -76,11 +76,11 @@
 		</dependency>
 
 		<!-- gaoxi-common-service-facade -->
-		<dependency>
+		<!--dependency>
 			<groupId>com.gaoxi</groupId>
 			<artifactId>gaoxi-common-service-facade</artifactId>
 			<version>0.0.1</version>
-		</dependency>
+		</dependency-->
 
 		<!-- AOP -->
 		<dependency>
